@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![smartlixx's github stats](https://github-readme-stats.vercel.app/api?username=smartlixx&theme=vue)](https://github.com/smartlixx)
+
 <!--
 **smartlixx/smartlixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
